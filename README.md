@@ -8,4 +8,5 @@ Free .exe + code
 
 (image taken from https://www.flaticon.com/free-icon/note_4021693)
 
-Every +5 start == Update, now its beta 1.1
+Every +5 stars on github == Update
+Now, its beta 1.1
