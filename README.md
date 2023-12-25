@@ -47,9 +47,13 @@ Changes:
                   ctrl+v - Paste
                   
 • New content that will be available in beta 1.3:
+
 Ukrainian, russian language support
+
 Text styles (bold, underline and others)
+
 🌚Dark mode switch and switch for Light mode🌝
+
 More Hotkeys
 
 • New content that will be available in beta 1.4:
